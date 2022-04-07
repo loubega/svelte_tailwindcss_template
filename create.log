@@ -1,0 +1,7 @@
+## svelte template
+npx degit loubega/template thh-svelte-template
+npm install
+
+## tailwind
+npm install -D tailwindcss postcss autoprefixer svelte-preprocess
+npx tailwindcss init tailwind.config.js -p
